@@ -7,7 +7,7 @@
 </head>
 <body>
 
-    <?php require_once('teplates/header.phtml'); ?>
+    <?php require_once('templates/header.phtml'); ?>
 
 </body>
 </html>
